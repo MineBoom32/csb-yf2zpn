@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css","webpack://src/MPlayer/music.css"],"names":[],"mappings":"AAAA,KACE,sBAAuB,CACvB,iBACF,CCHA,QACE,eACF","file":"main.53ea8f6e.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n  text-align: center;\n}\n",".active {\r\n  font-weight: bold;\r\n}\r\n"]}
